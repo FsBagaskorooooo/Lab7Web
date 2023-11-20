@@ -57,12 +57,12 @@
 
 
 
-![ss25](https://github.com/FsBagaskorooooo/Lab7Web/assets/130354090/3b647fba-fa02-475e-a21c-9edf54c5c436)
+![ss25](https://github.com/FsBagaskorooooo/Lab7Web/assets/130354090/27a7e9eb-00a1-4e37-ac35-85b32d8a9c34)
 
-![ss26](https://github.com/FsBagaskorooooo/Lab7Web/assets/130354090/5f892144-7432-4f93-9224-eb2bc7cfd0e0)
+![ss26](https://github.com/FsBagaskorooooo/Lab7Web/assets/130354090/97a86d47-c127-4bc2-a06b-ac4c70a06b3a)
 
+![ss27](https://github.com/FsBagaskorooooo/Lab7Web/assets/130354090/da2437f0-4157-47dc-b48f-01e0b5bbb469)
 
-![ss27](https://github.com/FsBagaskorooooo/Lab7Web/assets/130354090/18ad0c51-07fc-4d78-920c-219fb30b4855)
 
 
 

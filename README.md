@@ -82,11 +82,9 @@ Buat file baru dengan nama php_dasar.php
 
 ## Pertanyaan dan Tugas
 
-![ss25](https://github.com/FsBagaskorooooo/Lab7Web/assets/130354090/02032005-b2f8-4d7c-887a-d24def847f64)
+![ss25](https://github.com/FsBagaskorooooo/Lab7Web/assets/130354090/5313726b-e096-4443-a225-afd52b9da6c5)
 
-![ss26](https://github.com/FsBagaskorooooo/Lab7Web/assets/130354090/97d04365-286b-4e8a-a5fe-7c2ba4749c4c)
+![ss26](https://github.com/FsBagaskorooooo/Lab7Web/assets/130354090/98cb2ec3-0a7d-4db6-9254-9149bfbf586b)
 
-![ss27](https://github.com/FsBagaskorooooo/Lab7Web/assets/130354090/94071cef-a354-4536-996a-41f1355d674e)
-
-
+![ss27](https://github.com/FsBagaskorooooo/Lab7Web/assets/130354090/34169f32-4efa-410e-b422-6313c71a8726)
 
